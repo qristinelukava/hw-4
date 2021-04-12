@@ -1,0 +1,196 @@
+/*header style*/
+@import url("https://cdn.web-fonts.ge/fonts/archyedt-bold/css/archyedt-bold.min.css");
+.logo {
+	display: inline-block;
+	margin: 35px 46px 76px 30px;
+}
+.navigation {
+	display: inline-block;
+}
+.nav-li {
+	display: inline-block;
+	font-size: 22px;
+	color: #3D58A6;
+	margin-right: 22px;
+	font-family: "ArchyEDT-Bold", sans-serif;
+}
+.active {
+	color: #EE4036
+}
+
+
+/*section style*/
+.container {
+	width: 1170px;
+	/*margin-right: auto;
+	margin-left: auto;*/
+	margin: 0 auto;
+}
+
+
+
+
+/*section style*/
+
+h3 {
+	margin: 119px 0 30px;
+	font-size:  24px;
+	color: #000000;
+	width: 700px;
+
+
+}
+.left {
+	width: 570px;
+	background-color: #F2F2F2;
+	display: inline-block;
+
+	
+}
+.right {
+		width: 570px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	
+
+}
+.text-block1 {
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	font-size: 20px;
+	font-family: 'Inconsolata', monospace;
+}
+.text-block2 {
+
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	font-size: 20px;
+	font-family: 'Train One';
+}
+}
+.image-block {
+	vertical-align: middle;
+	
+	margin-right: 60px;
+
+margin-top: 13px;
+}
+h4 {
+	color: #3D58A6;
+	font-size: 22px;
+} 
+/*footer style*/
+.fblogo{
+	margin-left: 109px;
+	margin-bottom: 38px;
+	margin-top: 68px;
+
+}
+.divider {
+	width: 2px;
+	height: 27px;
+	background-color:  #363E97;
+	display: inline-block;
+	margin-left: 36px;
+	margin-right: 30px;
+	margin-top: 68px;
+	margin-bottom: 38px;
+
+
+}
+.youtube {
+	margin-top: 68px;
+	margin-bottom: 38px;
+	
+}
+
+/*article 1*/
+.date {
+	width: 46px;
+height: 55px;
+color: white;
+background-color: #3D58A6;
+font-size: 40px;
+margin-top: 41px;
+margin-left: 30px;
+padding-top: 10px;
+padding-left: 5px
+}
+.month {
+	font-size: 22px;
+	margin-top: 2.65px;
+	margin-left: 30px;
+	margin-bottom: 18px;
+    color: #3D58A6;
+}
+.title {
+	font-size: 20px;
+	margin-left: 30px;
+	margin-bottom: 16.52px;
+	margin-top: 22px;
+	font-weight: bolder;
+	font-style: italic;
+
+}
+
+
+
+.images { 
+width: 270px;
+height: 210px;
+margin-bottom: 27.46px;
+margin-left: 30px; }
+.text1 {
+	margin-left: 30px;
+	padding-bottom: 30px;
+	display: inline-block;
+	font-family: 'Arial GEO BoldItalic';
+	text-indent: 80px;
+	 line-height: normal;
+	 letter-spacing: 3px;
+}
+
+}
+article {
+	margin-right: 186px;
+	margin-left: 30px;
+}
+.info {
+
+	margin-top: 145px;
+	margin-bottom: 273.18px;
+	text-align: center;
+}
+.article-div {
+	width: 929px;
+	height: 360px;
+	display: inline-block;
+}
+/*contact style*/
+span {
+	color: #808080;
+}
+.contact {
+	background-color: #E6E6E6;
+	
+
+}
+.contact-container {
+	width: 1180px;
+	height: 570px;
+ margin: 0 auto; 
+} 
+.map {
+	width: 850px;
+	height: 465px;
+}
+.left-container {
+	display: inline-block;
+	vertical-align: top;
+}
+.right-container {
+	display: inline-block;
+	vertical-align: top;
+}
